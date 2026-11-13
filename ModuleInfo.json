@@ -1,0 +1,18 @@
+{
+  "Name": "OceanFloaterLandParts",
+  "Author": "Super Hackio",
+  "Description": "The rising platforms from Buoy Base Galaxy ported to SMG2",
+  "SupportedGames": [ "SB4" ],
+
+  "ModuleData": [
+    {
+      "ProductMapObj": [
+        {
+          "Name": "OceanFloaterLandParts",
+          "Function": "createExtActor<OceanFloaterLandParts>",
+          "Include": "Game/MapObj/OceanFloaterLandParts.h"
+        }
+      ]
+    }
+  ]
+}
